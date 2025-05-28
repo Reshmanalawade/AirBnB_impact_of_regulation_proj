@@ -1,7 +1,7 @@
 # AirBnB Listing & Reviews
 Airbnb is an online marketplace that connects people who want to rent out their homes with travelers seeking accommodations. 
 
-<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
+<img src="image airbnb.jpg" width=1000>
 
 ## Overview :
 This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
